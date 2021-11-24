@@ -1,0 +1,13 @@
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\obj\Debug\netcoreapp3.1\uc03Desafio01.csprojAssemblyReference.cache
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\obj\Debug\netcoreapp3.1\uc03Desafio01.AssemblyInfoInputs.cache
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\obj\Debug\netcoreapp3.1\uc03Desafio01.AssemblyInfo.cs
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\obj\Debug\netcoreapp3.1\uc03Desafio01.csproj.CoreCompileInputs.cache
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\bin\Debug\netcoreapp3.1\uc03Desafio01.exe
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\bin\Debug\netcoreapp3.1\uc03Desafio01.deps.json
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\bin\Debug\netcoreapp3.1\uc03Desafio01.runtimeconfig.json
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\bin\Debug\netcoreapp3.1\uc03Desafio01.runtimeconfig.dev.json
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\bin\Debug\netcoreapp3.1\uc03Desafio01.dll
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\bin\Debug\netcoreapp3.1\uc03Desafio01.pdb
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\obj\Debug\netcoreapp3.1\uc03Desafio01.dll
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\obj\Debug\netcoreapp3.1\uc03Desafio01.pdb
+C:\estudosDev\senac\uc03MonitorarProjetosDeAplicacoesWeb\desafios\uc03Desafio01\obj\Debug\netcoreapp3.1\uc03Desafio01.genruntimeconfig.cache
